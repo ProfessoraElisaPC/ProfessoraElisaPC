@@ -1,7 +1,8 @@
 - 👋 Professora Elisa
-- 👀 Disciplina: Pensamento Computacional
+- 👀 Email: elisa.franca@escola.pr.gov.br
+- :+1:Disciplina: Pensamento Computacional
 - 🌱 Turmas: 1ºs anos do Ensino Médio
-- 📫 Colégio Tiradentes - SJP
+- 📫 Colégio Estadual Tiradentes - SJP
 
 <!---
 ProfessoraElisaPC/ProfessoraElisaPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
